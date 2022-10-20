@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0%;
+
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgba(167, 55, 11, 0.349);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+li{
+    float: left;
+    margin: 25px;
+}
+li a{
+    display: inline-block;
+}
+.titulo1{
+    background-color: rgba(212, 57, 10, 0.466);
+    margin-left: 200px;
+    margin-right: 200px;
+    color: rgb(252, 248, 248);
+    border-radius: 10px;
+    height: 50px;
+}
+.activo{
+    background-color: rgba(13, 16, 175, 0.438);
+    color: white;
+}
+body{
+    background-image: url(/bkt.jpg);
+    color: rgba(248, 246, 246, 0.966);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+}
+
+.basket{
+    height: 400px;
+    transform: scale(2,1);
+    color: rgba(250, 251, 252, 0.568);
+    
+    
+    
+}
+.basket2022{
+    color: rgba(245, 247, 242, 0.568);
+}
+.basket1{
+    color: rgba(255, 254, 253, 0.822);
+}
+.basket2{
+    color: rgb(252, 252, 252);
+}
+.carusel{
+   margin-left: 15%;
+   margin-right: 15%;
+}
+.asd{
+    color: beige;
+    margin: 10%;
+    padding: 10%;
+    background-color: rgba(218, 75, 19, 0.123);
+}
+.prueba {
+    color: aliceblue;
+    background-color: rgba(202, 80, 23, 0.164);
+    margin: 10%;
+}
+
+footer{
+    color: rgb(247, 243, 243);
+}
+
+@media only screen and (max-width: 400em) {
+
+}
